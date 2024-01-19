@@ -1,2 +1,3 @@
 # ProyectoEDMiguelVillasana
-Este es un repositorio para la clase de Entronos de Desarollo de Grado Superior en el IES Arquitecto Ventura Rodriguez modificado para la tarea 4
+Se celebró una reunión de equipo ayer, nombra las personas que asistieron y qué tareas siguientes se acordaron, se han incorporado nuevos requisitos al proyecto después de la reunión de proyecto del
+22ene2024
